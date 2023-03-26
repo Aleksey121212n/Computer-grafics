@@ -1,2 +1,0 @@
-# Computer-grafics
-For learning 
